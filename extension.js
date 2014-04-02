@@ -15,8 +15,8 @@ appAPI.ready(function($) {
   			break
   		case 3: // Text node
   			node.nodeValue = node.nodeValue
-  				.replace(/\bCloud\b/g, "Clown")
-  				.replace(/\bcloud\b/g, "clown")
+  				.replace(/\bWater\b/g, "Jus")
+  				.replace(/\bwater\b/g, "jus")
   			break
   	}
   }
